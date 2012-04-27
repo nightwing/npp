@@ -13,9 +13,9 @@ http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Context_Menu
 		The values should be in English but not in translated language.
 		(You can set Notepad++ language back to English from Preferences dialog via menu "Settings->Preferences...")
 		-->
-        <Item MenuEntryName="Edit" MenuItemName="Cut"/>
-        <Item MenuEntryName="Edit" MenuItemName="Copy"/>
-        <Item MenuEntryName="Edit" MenuItemName="Paste"/>
+        <Item MenuEntryName="*" MenuItemName="Cut"/>
+        <Item MenuEntryName="*" MenuItemName="Copy"/>
+        <Item MenuEntryName="*" MenuItemName="Paste"/>
  		
 		<!-- id="0" is the separator -->
         <Item id="0"/>
